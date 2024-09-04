@@ -1,0 +1,12 @@
+﻿  oop_applicationslibarary.cpp
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsBankClient.h(31,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsBankClient.h(384,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsAddNewClientScreen.h(37,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsBankClient.h(330,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+  oop_applicationslibarary.vcxproj -> C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\x64\Debug\oop_applicationslibarary.exe

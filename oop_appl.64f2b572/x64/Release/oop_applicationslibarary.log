@@ -1,0 +1,23 @@
+﻿  oop_applicationslibarary.cpp
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsBankClient.h(29,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsBankClient.h(358,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsBankClient.h(371,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsBankClient.h(404,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsUsers.h(388,36): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsScreen.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsTransactionScreen.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\clsTransferScreen.h(59,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  21 of 846 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    81 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  oop_applicationslibarary.vcxproj -> C:\Users\moham\OneDrive\Desktop\project_oop\oop_applicationslibarary\x64\Release\oop_applicationslibarary.exe
